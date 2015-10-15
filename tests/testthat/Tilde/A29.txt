@@ -1,0 +1,7 @@
+srno~Fname~Lname~DOB~domain~tools~maths~rank
+1~Shruti~Kamath~24/1~biotech~yes~yes~1
+2~Yoganand~KLN~1-Jan~sales~yes~	yes~3
+3~Ram~Prakash~2/3~health~yes~yes~5
+4~Varun~Dey~4-Feb~yes~yes~yes~4
+5~Muthu~Kumar~7-Oct~Banking~yes~yes~2
+

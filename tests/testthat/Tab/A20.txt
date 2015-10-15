@@ -1,0 +1,7 @@
+srno	FName	LName	DOB	Domain	Tools	Maths	Rank
+01	Balajee	U	04/04/1995	Mobility	R	Probability	1
+02	Muthu	Kumaran	07/07/1995	Banking	Tableau	Calculus	2
+03	Suganthy	E	06/06/2000	Ecommerce	Tableau	Statistics	3
+04	Mukundan	Sankar	02/02/1995	Ecommerce	JavaScript	Calculus	4
+05	Srivenkatesh	Gandhi	11/05/1995	IT	PHP	Algebra	5
+06	Ashwath	V	08/08/1995	Ecommerce	salesforce	LinearAlgebra	6

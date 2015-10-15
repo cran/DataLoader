@@ -1,0 +1,24 @@
+Sr_no	F_name	L_Name	DOB	Domain	Tools 	Maths	Rank 
+1	Muthu 	Kumar 	2/3/1995	Banking 			1
+2	Ram 	Prakash	4/5/1995		R		1
+3	Aravind 	Babu	5/8/1995		Hadoop 		2
+4	Shankar	Lingam	6/7/1995	ERP	Hadoop 		3
+5	Sri 	Venkatesh	2/3/1995		"PHP,R"		2
+6	Balajee 	U 	4/5/1995		R		2
+7	Balajee 	U 	4/5/1995		Hadoop 		1
+8	Varun	Dey	6/7/1995		Hadoop 		3
+9	Krishnaraam	Bethusamy	6/8/1995		R		3
+10	PoornaChander	M	2/3/1995	E-Publishing			1
+11	PoornaChander	M	2/3/1995			Machine Learning 	1
+12	Anusha	C	5/8/2000		Excel	Probability	1
+13	Satish	V	6/7/1995	Engineering 			1
+14	Satish	V	6/7/1995			Probability	2
+15	A	R	6/7/1995	Finance			1
+16	Harish	A	5/8/1995	Banking 	Tableau 		1
+17	Shruthi 	Kamaith	2/4/2000		Tableau 		2
+18	Akash	DR	6/8/1995	E-Commerce			2
+19	Sudhakarn	S	6/8/1995	Engineering 			1
+20	Shuba	MG	2/8/2000	BFSI	IBM Kicks		1
+21	Shuba	MG	2/8/2000		Tableau 		3
+22	Ashwath	V	2/3/1995	E-Commerce	"Zendesk,SalesForce"		1
+23	Siddhartha	Mukuhopadhyay	2/3/1995		SAS		1

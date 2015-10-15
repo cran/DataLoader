@@ -1,0 +1,6 @@
+S.no	First name	Last name	DOB	Domain	Tools	Maths	Rank
+1	Shankar	Lingam	24/07/1992	Y	Y	N	2
+2	Akaash	D.R	31/5/1992	Y	Y	N	4
+3	Balajee	U	4/4/1992	N	Y	Y	1
+4	Subha	M.G	18/9/1990	Y	Y	N	3
+5	Sathish	V	27/07/1992	Y	Y	N	5

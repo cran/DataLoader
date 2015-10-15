@@ -1,0 +1,7 @@
+Srno~Fname~Lname~DOB~domain~tools~maths~ranks
+1~Swetha~M~23/11/2000~Healthcare~Excel~Random Processing~1
+2~Harish~A~24/12/1995~Banking~Excel~Accountancy~2
+3~Yoganand~KLN~3/2/1995~Marketing~Excel~~4
+4~Shiv~-~4/7/1995~Software Eng~Programming~~5
+5~Mukundan~Sankar~2/3/~Eng~Excel~~6
+6~Anusha~C~27/2/2000~EEE~Excel~Profit and Loss~3

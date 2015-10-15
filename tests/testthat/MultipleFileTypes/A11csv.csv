@@ -1,0 +1,6 @@
+srno,FName,LName,DOB,Domain,Tools,Maths,Rank
+1,Muthu,Kumaran,07-07-1995,Banking,Tableau,Calculus,1
+2,Suganthy,E,06-06-2000,Ecommerce,Tableau,Statistics,2
+3,Mukundan,Sankar,02-02-1995,Ecommerce,JavaScript,Calculus,3
+4,Srivenkatesh,Gandhi,11-05-1995,IT,PHP,Algebra,4
+5,Ashwath,V,08-08-1995,Ecommerce,salesforce,LinearAlgebra,5

@@ -1,0 +1,6 @@
+Sr_no	FNAME	LNAME	DOB	DOMAIN	TOOLS	MATHS	RANK
+1	Sankar	Lingam	24/07/1995	Y	Y	N	2
+2	Aravind	Babu	5/8/2000	N	Y	N	3
+3	Avudaiappan	Ram	2/6/2000	Y	N	N	5
+4	Muthu	Kumaran	10/7/1995	Y	N	Y	1
+5	Bharathi	Kannamma	3/7/1995	Y	Y	N	4

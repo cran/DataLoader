@@ -1,0 +1,6 @@
+SR_NO	FNAME	LNAME	DOB	DOMIAN	TOOLS	MATHS	RANK
+1	Aravind	Babu	05/08/95	No	YES	Yes	1
+2	Yoganand	KLN	24/01/95	Yes	No	Yes	2
+3	Harish	A	24/12/95	Yes	No	Yes	3
+4	Anusha	C	27/02/00	Yes	No	Yes	4
+5	Himal	Raj	17/02/95	Yes	No	Yes	5

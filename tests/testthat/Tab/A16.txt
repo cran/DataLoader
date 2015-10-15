@@ -1,0 +1,9 @@
+sr.no	Fname	Lname	DOB	Domain	Tools	Maths	Rank
+1	Balaji	U	8/9/2015	"Enterprise Mobility"	"R, Big Data"	Statistics	1
+2	Ram 	Prakash	5/5/1990	Healthcare	"R, Big Data, Hadoop"	Calculus	2
+3	Aravind	Babu	5/8/1990	Insurance	"R, Big Data, Hadoop"	Probability	3
+4	sankar	Lingam	24/7/1992	Finance	"ERP,Hadoop"	4
+5	Varun	Dey	9/6/1990	R	Calculus	5
+6	Subha	Mg	18/9/1987	BFSI	"IBM KICKS TSO"	6
+7	Sri	Venkatesh	11/5/1990		"PHP,R"	7
+8	Poorna	Chandar	14/7/1990	Webdesigning	"SQL,Hadoop,MachineLearning"	"Linear Regression"	8

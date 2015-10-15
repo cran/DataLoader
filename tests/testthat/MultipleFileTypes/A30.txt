@@ -1,0 +1,8 @@
+s.no|Fname|Lname|dob|domain|tools|maths|rank
+
+1|Sudhakaran|S|28-05-1995|supplychain|tableau|probabillty|1
+2|Akaash|DR|31-05-1995|retail|mysql|statistics|2
+3|Balaji|U|04-04-1995|mobility|mysql,DB2,R|statistics|3
+4|subha|MG|18-09-2005|bfsi|mysql,cics,tso|probability|4
+5|anusha|C|27-02-2005|electrical|excel,tableau|differentation|5
+6|Ram|prakash|01-04-1995|healthcare|mysql,DB2,R|probability|6

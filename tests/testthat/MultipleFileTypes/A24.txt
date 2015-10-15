@@ -1,0 +1,6 @@
+Sr_No	F_name	L_name	DOB	Domain	Tools	Maths	Rank
+1	Muthu 	Kumaran	20-06-1991	Yes	Yes	Yes	1
+2	Aravind	R	25-07-1991	No	Yes	Yes	2
+3	Varun	Dev	06-09-1992	No	Yes	Yes	3
+4	Shruthi	Kamat	02-03-1992	No	No	Yes	4
+5	Himal	Raj	05-06-1990	Yes	No	No	5

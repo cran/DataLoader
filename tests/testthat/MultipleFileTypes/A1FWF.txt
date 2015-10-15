@@ -1,0 +1,11 @@
+SR_No    F_Name    L_Name    DOB       Domain    Tools     Maths     Rank
+
+1        Varun     Dey       09/06/91  No        Yes       No        1
+
+2        Subha     MG        18/09/90  Yes       No        Yes       2
+
+3        Poorna    Chandran  14/07/91  No        No        Yes       3
+
+4        Akaash    Dr        31/05/92  Yes       No        No        4
+
+5        Shankar   Lingam    24/07/90  No        Yes       Yes       5
