@@ -1,9 +1,10 @@
-3c5c4f5da634e116982b021bb3bb7022 *DESCRIPTION
-0bdbaacc4023c29bc35f80523dbb925b *NAMESPACE
-fee0c64a74bace7b49e3cec609feb47b *R/DataLoader.R
+fa7a403f7a0dbaced4f0c2afa8e666a4 *DESCRIPTION
+0a41a3cf5be8f715fc9f65090f4c30b1 *NAMESPACE
+4225e55105a44dade787b4db0a6d8d36 *R/DataLoader.R
 d438a0ef6cb33e15f9a526ff7a3eb311 *man/importAllMdf.Rd
 8a129039f0332eb939f62a3e1f773ac9 *man/importAllSdf.Rd
 fe5ee674145e1d8aeea582865b29d7df *man/importCsv.Rd
+9b60293956825bac0adbef64bc60d9e8 *man/importCsv2.Rd
 c1912193f6f1f2c4c38c19d0d0c36d06 *man/importExcel.Rd
 cea0c301384c915e4db3d03f1fb463ac *man/importPipe.Rd
 671adc20a8d4802bad2b4960e089273d *man/importTab.Rd

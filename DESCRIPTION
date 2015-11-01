@@ -1,6 +1,6 @@
 Package: DataLoader
 Title: Import Multiple File Types
-Version: 1.2
+Version: 1.3
 Type: Package
 Date: 2015-10-09
 Author: Srivenkatesh Gandhi<srivenkateshg@sase.ssn.edu.in>,
@@ -13,6 +13,6 @@ Suggests: testthat
 License: GPL (>= 2)
 LazyData: TRUE
 NeedsCompilation: no
-Packaged: 2015-10-15 11:39:39 UTC; kresh
+Packaged: 2015-10-29 17:12:03 UTC; kresh
 Repository: CRAN
-Date/Publication: 2015-10-15 15:45:20
+Date/Publication: 2015-11-01 17:53:09

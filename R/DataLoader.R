@@ -223,6 +223,46 @@ importCsv <- function(path=NULL)
   return(dflist);
 }
 
+#' Importing multiple csv files(";" delimited) and storing it into a list of data frames
+#'
+#' importCsv2 function loads .csv file types in a selected directory to separate dataframes,
+#' and stores them as a list. Data frames can be accessed as list elements by using "listname$filename" or "listname[]".
+#'
+#'
+#' @param path the directory in which the files are stored.
+#'        If path is not given, interactive dialog box will be used to select directory
+#'
+#' @return a single list of dataframes containing all the files imported and stored as dataframes.
+#'
+#' @import     rChoiceDialogs
+#'             tools
+#'             readxl
+#'             xlsx
+#'             plyr
+#'
+#' @export
+importCsv2 <- function(path=NULL)
+{
+  projectDirectory <- getwd();
+  # Set the working directory for importing files.
+  if(is.null(path)) {
+    path <- rchoose.dir(default = getwd(), caption="Select the directory with the files to import");
+  }
+  setwd(path);
+  fileNames <- list.files();
+  filesExtensions <- file_ext(fileNames);
+  files <- data.frame(fileNames,filesExtensions);
+  n <- nrow(files);
+  dflist = list();
+  for(i in 1:n){
+    if(files[[2]][[i]] == "csv") {
+      sample_text <- read.csv2(toString(files[[1]][[i]]));
+      dflist[[toString(files[[1]][[i]])]] <- sample_text;
+    }
+  }
+  setwd(projectDirectory);
+  return(dflist);
+}
 #' Importing multiple excel files and storing it into a list of data frames
 #'
 #' importExcel function loads excel data file types(.xlsx, .xls) in a selected directory to separate dataframes,

@@ -3,6 +3,7 @@
 export(importAllMdf)
 export(importAllSdf)
 export(importCsv)
+export(importCsv2)
 export(importExcel)
 export(importPipe)
 export(importTab)
